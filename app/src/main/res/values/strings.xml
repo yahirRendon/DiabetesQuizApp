@@ -1,0 +1,74 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Diabetes Quiz App</string>
+    <string name="welcome_header_text">Welcome</string>
+    <string name="plus_symbol">+</string>
+    <string name="end_diabetes_footer_text">End Diabetes</string>
+    <string name="intro_quiz_text">Test your diabetes knoweldge in this short quiz.</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="q1_a1_text">5th</string>
+    <string name="q1_a2_text">6th</string>
+    <string name="q1_a3_text">7th</string>
+    <string name="q1_a4_text">8th</string>
+    <string name="q2_a1_text">Overweight</string>
+    <string name="q2_a2_text">Under 35</string>
+    <string name="q2_a3_text">Have family with type 2 diabetes</string>
+    <string name="q2_a4_text">Exercise 5+ days a week</string>
+    <string name="q3_a1_text">Kidney failure</string>
+    <string name="q3_a2_text">Lower-limb amputations</string>
+    <string name="q3_a3_text">Adult onset blindness</string>
+    <string name="q3_a4_text">All of the above</string>
+    <string name="answer_hint_text">Enter answer</string>
+    <string name="q5_a1_text">Urinating often</string>
+    <string name="q5_a2_text">Extreme Fatigue</string>
+    <string name="q5_a3_text">Abdominal pain</string>
+    <string name="q5_a4_text">Blurry Vision</string>
+    <string name="q6_a1_text">True</string>
+    <string name="q6_a2_text">False</string>
+    <string name="summary_tap_text">Tap for detailed summary</string>
+    <string name="summary_tap_hide_text">Tap to hide summary</string>
+    <string name="begin_submit_btn_text">Begin</string>
+    <string name="question_1_text">Diabetes is the _____ leading cause of death in the United States.</string>
+    <string name="question_1_header_text">Question 1</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="question_2_text"><xliff:g id="name" example="Mary">%1$s</xliff:g>, you are at risk for developing prediabetes or type 2 diabetes if you:</string>
+    <string name="question_2_header_text">Question 2</string>
+    <string name="question_3_text">Diabetes is the leading cause of:</string>
+    <string name="question_3_header_text">Question 3</string>
+    <string name="question_4_text">People with diabetes are twice as likely to have heart disease or a ______ as people with out diabetes</string>
+    <string name="question_4_header_text">Question 4</string>
+    <string name="question_5_text"><xliff:g id="name" example="Mary">%1$s</xliff:g>, common diabetic symptoms include:</string>
+    <string name="question_5_header_text">Question 5</string>
+    <string name="question_6_text">Type 1 diabetes is the most common form of diabetes.</string>
+    <string name="question_6_header_text">Question 6</string>
+    <string name="none_correct_text"><xliff:g id="name" example="Mary">%1$s</xliff:g>, You got none of the question correct. Click on the more button to learn about diabetes.</string>
+    <string name="less_than_5_correct_text"><xliff:g id="name" example="Mary">%1$s</xliff:g>, you only got <xliff:g id="name" example="2">%2$s</xliff:g>  out of 6 questions correct. Click on the more button to learn more about diabetes.</string>
+    <string name="more_than_5_correct_text">Congratulations <xliff:g id="name" example="Mary">%1$s</xliff:g>, you got <xliff:g id="name" example="2">%2$s</xliff:g> out of 6 questions correct!</string>
+    <string name="results_header_text">Results</string>
+    <string name="restart_quiz_btn_text">Restart Quiz</string>
+    <string name="enter_name_toast_text">You must enter your name</string>
+    <string name="detailed_summary_initial">Detailed Quiz Summary \n\n</string>
+    <string name="q1_correct">Question 1: Correct\n</string>
+    <string name="q1_incorrect">Question 1: Incorrect\n</string>
+    <string name="q1_summary_statement">Diabetes is the 7th leading cause of death in the United States\n\n</string>
+    <string name="q2_correct">Question 2: Correct\n</string>
+    <string name="q2_incorrect">Question 2: Incorrect\n</string>
+    <string name="q2_summary_statement">Risk factors for type 2 diabetes include being overweight and having family members with type 2 diabetes.\n\n</string>
+    <string name="q3_correct">Question 3: Correct\n</string>
+    <string name="q3_incorrect">Question 3: Incorrect\n</string>
+    <string name="q3_statement">Diabetes is the leading cause of kidney failure, lower-limb amputations, and adult onset blindness.\n\n</string>
+    <string name="q4_correct">Question 4: Correct\n</string>
+    <string name="q4_incorrect">Question 4: Incorrect\n</string>
+    <string name="q4_statement">Individuals with diabetes are twice as likely to have heart disease or a stroke compared to those without diabetes.\n\n</string>
+    <string name="q5_correct">Question 5: Correct\n</string>
+    <string name="q5_incorrect">Question 5: Incorrect\n</string>
+    <string name="q5_statement">Common diabetic symptoms include frequent urination, extreme fatigue, and blurry vision.\n\n</string>
+    <string name="q6_correct">Question 6: Correct\n</string>
+    <string name="q6_incorrect">Question 6: Incorrect\n</string>
+    <string name="q6_statement">Type 2 is the most common form of diabetes not type 1.\n\n</string>
+    <string name="select_radio_warning"><xliff:g id="name" example="Mary">%1$s</xliff:g>, select one answer</string>
+    <string name="select_checkbox_warning"><xliff:g id="name" example="Mary">%1$s</xliff:g>, select at least one answer</string>
+    <string name="enter_name_warning">Enter your name</string>
+    <string name="enter_answer_warning"><xliff:g id="name" example="Mary">%1$s</xliff:g>, enter an answer</string>
+    <string name="q4_input_ans1">Stroke</string>
+    <string name="q4_input_ans2">stroke</string>
+</resources>
